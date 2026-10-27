@@ -1,0 +1,36 @@
+// Sample student used across the student portal. Not a real person.
+export const studentProfile = {
+  name: 'Riya Verma',
+  email: 'riya.verma@example.com',
+  phone: '',
+  course: 'BCA',
+  year: 'Final year',
+  college: 'Sample College of Computer Applications',
+  location: 'Sample City, India',
+  targetRole: 'Frontend Developer',
+  interests: ['Web development', 'UI design', 'Open source'],
+  summary: '',
+  links: { github: '', portfolio: '' },
+}
+
+export const currentSkills = {
+  HTML: 90,
+  CSS: 85,
+  JavaScript: 75,
+  React: 60,
+  TypeScript: 20,
+  'REST APIs': 35,
+  Git: 55,
+  Testing: 10,
+  'Responsive design': 70,
+  Accessibility: 25,
+  'Node.js': 25,
+  MongoDB: 15,
+  SQL: 65,
+  Java: 70,
+  Python: 30,
+  Excel: 50,
+  Statistics: 25,
+  'Data visualization': 20,
+  'Problem solving': 60,
+}
